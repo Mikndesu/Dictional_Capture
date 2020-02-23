@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".history.HistoryActivity"></activity>
+        <activity android:name=".history.HistoryShowActivity"></activity>
         <activity android:name=".localscan.LocalScanActivity" />
         <activity android:name=".capture.CaptureActivity" />
         <activity android:name=".MainActivity">
